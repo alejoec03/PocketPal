@@ -8,7 +8,7 @@
 }
 
 body{
-    background-color: #1c1c1c;
+    background-color: #430f43 ;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -43,7 +43,7 @@ body{
 
 .container a{
     /* color de iconos */
-    color: #333;
+    color: #000 ;
     font-size: 13px;
     text-decoration: none;
     margin: 15px 0 10px ;
@@ -51,7 +51,7 @@ body{
 
 .container button{
     color: #fff;
-    background-color: #1c1c1c;
+    background-color: #800080;
     font-size: 12px;
     padding: 10px 45px;
     border: 1px solid transparent;
@@ -180,7 +180,7 @@ body{
 
 .toggle{
     color: #fff;
-    background-color: #1c1c1c;
+    background-color: #800080;
     height: 100%;
     position: relative;
     left: -100%;
